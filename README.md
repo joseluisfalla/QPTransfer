@@ -1,0 +1,2 @@
+# qaoa_parameter_transferability_machine_learning
+Graph embedding techniques for parameter transferability in QAOA
